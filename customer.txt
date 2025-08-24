@@ -1,15 +1,6 @@
-HEAD
 #customer details
 Santhiya Tirupur
 Priya Madurai
 Santhosh Madurai
-#customer details
-Santhiya Tirupur
-Priya Madurai
-Santhosh Madurai
-<<<<<<< HEAD
->>>>>>> b1f24acb03ed03e0421d7f947355ac0d4314523c
-Saranya TirupurNew customer info
-=======
 Saranya Tirupur
->>>>>>> 0c557b9 (Resolved merge conflict in customer.txt)
+New customer info
