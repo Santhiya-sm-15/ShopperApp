@@ -3,10 +3,9 @@
 Santhiya Tirupur
 Priya Madurai
 Santhosh Madurai
-=======
 #customer details
 Santhiya Tirupur
 Priya Madurai
 Santhosh Madurai
->>>>>>> b1f24acb03ed03e0421d7f947355ac0d4314523c
+b1f24acb03ed03e0421d7f947355ac0d4314523c
 Saranya Tirupur
